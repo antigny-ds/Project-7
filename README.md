@@ -5,3 +5,4 @@ Contains source files and code for the project 7 of the Data Analyst training co
 **functions** ==> module gathering functions definitions used in P7_01_code <br>
 **plt_params** ==> graphics parameters <br>
 **fichiers_p7** ==> source files conaining data
+**Soutenance_Projet_7** ==> slides used for evaluation of the project
